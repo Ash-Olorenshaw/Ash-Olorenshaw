@@ -9,6 +9,7 @@
 - C#
 - Java
 - Javascript
+- C
 
 ### Even rarer I _also_ sometimes write
 - Vimscript
