@@ -3,17 +3,17 @@
 ### I do a lot of writing in
 - Python
 - F#
+- C/Odin
 - GDScript
 
 ### Sometimes I _also_ write
 - C#
 - Java
-- Javascript
-- C
+- Powershell Script
 
 ### Even rarer I _also_ sometimes write
 - Vimscript
-- Powershell Script
+- Javascript
 - Lua
 
-I get around.
+But yeah, programming is fun - I really enjoy it.
