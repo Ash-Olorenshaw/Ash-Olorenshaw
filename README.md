@@ -4,7 +4,7 @@
 - Python
 - F#
 - C/Odin
-- GDScript
+- JS
 
 ### Sometimes I _also_ write
 - C#
@@ -13,7 +13,6 @@
 
 ### Even rarer I _also_ sometimes write
 - Vimscript
-- Javascript
 - Lua
 
 But yeah, programming is fun - I really enjoy it.
