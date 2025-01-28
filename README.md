@@ -1,18 +1,19 @@
 ## Ash Olorenshaw's README
 
-### I do a lot of writing in
+Hey, I'm Ash - I do a lot of writing in
+
 - Python
 - F#
-- C/Odin
-- JS
-
-### Sometimes I _also_ write
-- C#
-- Java
+- Odin
 - Powershell Script
 
-### Even rarer I _also_ sometimes write
-- Vimscript
-- Lua
+No matter what people say, I'm going to continue running PowerShell as my shell of choice on Linux!!
 
-But yeah, programming is fun - I really enjoy it.
+Other miscellaneous opinions:
+- HTMX is really nice
+- .NET is impressively fast
+- avoid OO (as much as feasibly possible)
+- programming *is fun*!
+
+
+**Live long and prosper**
