@@ -1,6 +1,6 @@
 ## Ash Olorenshaw
 
-Hey, I'm Ash - I do a lot of writing in
+Hey, I'm Ash! I do a lot of writing in
 
 - Python
 - F#
