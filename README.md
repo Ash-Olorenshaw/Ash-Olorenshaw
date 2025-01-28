@@ -1,4 +1,4 @@
-## Ash Olorenshaw's README
+## Ash Olorenshaw
 
 Hey, I'm Ash - I do a lot of writing in
 
