@@ -17,3 +17,6 @@ Other miscellaneous opinions:
 
 
 **Live long and prosper**
+
+
+*Profile pic credit: Fernando Rubio in [Danger Death Ray!!](https://www.imdb.com/title/tt0062035/) (1967)*
