@@ -3,8 +3,8 @@
 Hey, I'm Ash! I do a lot of writing in
 
 - Python
+- C
 - F#
-- Odin
 - Powershell Script
 
 No matter what people say, I'm going to continue running PowerShell as my shell of choice on Linux!!
@@ -12,8 +12,9 @@ No matter what people say, I'm going to continue running PowerShell as my shell 
 Other miscellaneous opinions:
 - HTMX is really nice
 - .NET is impressively fast
-- avoid OO (as much as feasibly possible)
-- programming *is fun*!
+- C is still very relevant and very powerful - the more and more I write it the more I feel we don't need to replace it (some tweaks would be nice, but nothing massive is necessary)
+- avoid object oriented stuff (it has it's place - UI and stuff, but it's not *necessary* for most stuff)
+- programming *is* and should be **fun**!
 
 
 **Live long and prosper**
