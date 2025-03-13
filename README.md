@@ -7,7 +7,7 @@ Hey, I'm Ash! I do a lot of writing in
 - F#
 - Powershell Script
 
-No matter what people say, I'm going to continue running PowerShell as my shell of choice on Linux!!
+No matter what people say, I'm going to continue running PowerShell as my shell of choice on Linux!! ([Even if it can be awkward occasionally](https://github.com/nvm-sh/nvm/issues/3270))
 
 Other miscellaneous opinions:
 - HTMX is really nice
