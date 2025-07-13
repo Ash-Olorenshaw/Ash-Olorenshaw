@@ -3,14 +3,16 @@
 Hey, I'm Ash! I do a lot of writing in
 
 - C
-- Python
-- F#
 - JS/TS (reluctantly)
+- Nim
+- F#
 
 No matter what people say, I'm going to continue running PowerShell as my shell of choice on Linux!! ([Even if it can be awkward occasionally](https://github.com/nvm-sh/nvm/issues/3270))
 
 Other miscellaneous opinions:
 - HTMX is really nice - honestly covers most usecases for basic websites (so does Vanilla JS)
+- Svelte is very good!!
+- Nim is probably the **most ergonomic language of all time**.
 - .NET is impressively fast
 - C is still very relevant and very powerful. We don't need to replace it!
 - OOP is only good when it's *relevant*. If it's not relevant, then it's just a complication
